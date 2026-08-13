@@ -1,5 +1,6 @@
-The original dataset is not included in this repository because of its file size. The dataset can be obtained from the original Kaggle source using the link provided above. 
+The original dataset is not included in this repository because of its file size. The dataset can be obtained from the original Kaggle source using the link provided below. 
 The experiments in this project were performed using the downloaded dataset.
   Dataset: CEAS 2008 Phishing Email Dataset
   Source: Kaggle
+  Dataset file name used to the script: dataset.csv
   Dataset Access: https://www.kaggle.com/datasets/mubarakalamiri/phishing-email-dataset?
