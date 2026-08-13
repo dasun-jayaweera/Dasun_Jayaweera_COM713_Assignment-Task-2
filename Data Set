@@ -2,5 +2,5 @@ The original dataset is not included in this repository because of its file size
 The experiments in this project were performed using the downloaded dataset.
   Dataset: CEAS 2008 Phishing Email Dataset
   Source: Kaggle
-  Dataset file name used to the script: dataset.csv
+  Dataset file name used in the script: dataset.csv
   Dataset Access: https://www.kaggle.com/datasets/mubarakalamiri/phishing-email-dataset?
